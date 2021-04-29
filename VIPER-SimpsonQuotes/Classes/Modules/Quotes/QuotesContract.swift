@@ -8,6 +8,7 @@
 
 import UIKit
 
+// NEw comment
 
 // MARK: View Output (Presenter -> View)
 protocol PresenterToViewQuotesProtocol: class {
